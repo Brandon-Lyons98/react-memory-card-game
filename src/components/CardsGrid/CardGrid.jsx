@@ -1,4 +1,5 @@
 import Card from "./Card";
+import '../../styles/Main.css';
 
 function CardGrid({characters, characterNames, onClick}) {
   return (
